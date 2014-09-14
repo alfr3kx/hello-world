@@ -1,2 +1,5 @@
-print "Hola Mundo amigos :D"
+print "Hola Mundo!"
 print ""
+
+print "Hello People :D"
+
